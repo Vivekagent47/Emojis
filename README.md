@@ -1,8 +1,12 @@
+## We use emojis for making our README files beacutiflu and intractive.
+
+### Here are some the emojis code you can use in your files.
+
 People
 
-| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+| :smiley: `:smiley:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
-| :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
+| :blush: `:blush:` | :bowtie: `:bowtie:` | :relaxed: `:relaxed:` |
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
 | :satisfied: `:satisfied:` | :grin: `:grin:` | :wink: `:wink:` |
