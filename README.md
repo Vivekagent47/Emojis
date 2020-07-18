@@ -1,4 +1,4 @@
-## We use emojis for making our README files beacutiflu and intractive.
+## We use emojis for making our README files beacutifull and intractive.
 
 ### Here are some the emojis code you can use in your files.
 
